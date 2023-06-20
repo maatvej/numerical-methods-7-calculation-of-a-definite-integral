@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1582537619 source:c:\users\michael\desktop\Компьютерное моделирование численного интегрирования\integral1\main.cpp
+	<iostream>
+	<math.h>
+	<conio.h>
+	<locale>
+
+1679670384 source:c:\users\michael\desktop\task_308431(1)\integral1\main.cpp
+	<iostream>
+	<math.h>
+	<conio.h>
+	<locale>
+
+1679756747 source:c:\users\musat\onedrive\ПМ-ПУ\2022-2023. 3 курс\Численные методы\задание 4\decision_308431\integral1\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+	<conio.h>
+	<locale>
+
